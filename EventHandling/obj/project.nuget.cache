@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OT9BoiCR9JaTE5vBY9zerPSV1SqdrByn045S0M6D7RdUmKKTLYKV9zHvB1C6UurTvTJTN9TuNeST3fqD+Y9mYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\iCloudDrive\\EventHandling\\EventHandling\\EventHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
